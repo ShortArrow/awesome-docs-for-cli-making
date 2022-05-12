@@ -3,11 +3,20 @@
 ## ANSI ESCAPE CODE
 
 - https://www.wikiwand.com/en/ANSI_escape_code
+- https://ttssh2.osdn.jp/manual/4/ja/about/ctrlseq.html
+- https://www.wikiwand.com/en/Delete_key
+- https://vt100.net/docs/vt100-ug/chapter3.html
+- https://invisible-island.net/xterm/ctlseqs/ctlseqs.html
+- https://renenyffenegger.ch/notes/Linux/shell/ANSI-escape-sequences
 
 ### powershell
 
 - https://duffney.io/usingansiescapesequencespowershell/
+- https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_ansi_terminals?view=powershell-7.2
 - https://github.com/PoshCode/Pansies
+- https://qiita.com/kitakitash/items/6df1f06da95f2e45cf35
+- https://renenyffenegger.ch/notes/Windows/PowerShell/host/ANSI/index
+- https://4sysops.com/archives/using-powershell-with-psstyle/
 
 ### python
 
